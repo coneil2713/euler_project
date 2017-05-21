@@ -1,0 +1,1 @@
+The Euler Project is a series of programming challenges that are best solved by using the power of computers
